@@ -1,3 +1,12 @@
 http://api.openweathermap.org/data/2.5/weather?lat=48.565395&lon=38.292998&units=metric&appid=7bba12f95396429bbe88096122981d2f	Severodonetsk
 
 http://api.openweathermap.org/data/2.5/weather?q=Lisichansk&units=metric&appid=7bba12f95396429bbe88096122981d2f
+
+
+    "id": 691999,
+    "name": "Syeverodonetsk",
+    "country": "UA",
+    "coord": {
+      "lon": 38.491661,
+      "lat": 48.948318
+    }
